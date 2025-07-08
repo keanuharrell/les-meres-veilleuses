@@ -135,7 +135,7 @@ export default function Home() {
             </CardHeader>
             <CardContent className="text-center">
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-                &quot;Magali était une mère veilleuse, toujours présente pour ses enfants, sa famille et ses amis. 
+                &quot;Magali était une mère veilleuse, toujours présente pour sa fille, sa famille et ses amis. 
                 Son sourire illuminait chaque journée et sa force inspirait tous ceux qui l&apos;entouraient. 
                 Aujourd&apos;hui, nous portons sa lumière à travers nos actions.&quot;
               </p>

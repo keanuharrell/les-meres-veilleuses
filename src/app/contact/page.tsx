@@ -93,7 +93,7 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold">Email</h4>
                       <p className="text-sm text-muted-foreground">
-                        contact@lesmeresveilleuses.fr
+                        lesmeresveilleuses57@gmail.com
                       </p>
                     </div>
                   </div>
@@ -102,7 +102,7 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold">Téléphone</h4>
                       <p className="text-sm text-muted-foreground">
-                        06 12 34 56 78
+                        06 10 21 31 46
                       </p>
                     </div>
                   </div>
@@ -111,8 +111,8 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold">Adresse</h4>
                       <p className="text-sm text-muted-foreground">
-                        123 Rue de l&apos;Espoir<br />
-                        75001 Paris, France
+                        6 Square des Côteaux<br />
+                        57460 Etzling, France
                       </p>
                     </div>
                   </div>

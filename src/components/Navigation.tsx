@@ -10,6 +10,8 @@ import { cn } from "@/lib/utils";
 const navItems = [
   { href: "/", label: "Accueil" },
   { href: "/histoire", label: "Notre Histoire" },
+  { href: "/association", label: "L'Association" },
+  { href: "/valeurs", label: "Nos Valeurs" },
   { href: "/raid", label: "Raid Amazones" },
   { href: "/contact", label: "Contact" },
 ];
