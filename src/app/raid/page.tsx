@@ -17,7 +17,7 @@ export default function RaidPage() {
               Raid Amazones 2025
             </h1>
             <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-              Une aventure sportive extraordinaire au cœur de l'Amazonie pour porter 
+              Une aventure sportive extraordinaire au cœur de l&apos;Amazonie pour porter 
               la mémoire de Magali et sensibiliser à la lutte contre les cancers du sang.
             </p>
           </div>
@@ -30,9 +30,9 @@ export default function RaidPage() {
             <Card className="bg-gradient-to-br from-primary/5 to-accent/5">
               <CardHeader>
                 <MapPin className="h-8 w-8 text-primary mb-4" />
-                <CardTitle className="text-2xl">L'Amazonie nous attend</CardTitle>
+                <CardTitle className="text-2xl">L&apos;Amazonie nous attend</CardTitle>
                 <CardDescription>
-                  6 jours d'aventure dans l'un des écosystèmes les plus extraordinaires du monde
+                  6 jours d&apos;aventure dans l&apos;un des écosystèmes les plus extraordinaires du monde
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -72,7 +72,7 @@ export default function RaidPage() {
                   <div className="flex items-center gap-3 p-3 bg-primary/5 rounded-lg">
                     <Compass className="h-5 w-5 text-primary" />
                     <div>
-                      <h4 className="font-semibold">Course d'orientation</h4>
+                      <h4 className="font-semibold">Course d&apos;orientation</h4>
                       <p className="text-sm text-muted-foreground">Navigation en forêt dense</p>
                     </div>
                   </div>
@@ -155,7 +155,7 @@ export default function RaidPage() {
                       <span className="font-semibold">1 500 €</span>
                     </div>
                     <div className="flex justify-between items-center">
-                      <span className="text-sm">Frais d'organisation</span>
+                      <span className="text-sm">Frais d&apos;organisation</span>
                       <span className="font-semibold">1 000 €</span>
                     </div>
                     <div className="flex justify-between items-center border-t pt-2">
@@ -212,8 +212,8 @@ export default function RaidPage() {
                 </p>
                 <div className="bg-accent/5 p-4 rounded-lg">
                   <p className="text-sm italic text-muted-foreground">
-                    "Nous porterons ton sourire au cœur de l'Amazonie, Magali. 
-                    Chaque pas sera un hommage à ta force et à ta joie de vivre."
+                    &quot;Nous porterons ton sourire au cœur de l&apos;Amazonie, Magali. 
+                    Chaque pas sera un hommage à ta force et à ta joie de vivre.&quot;
                   </p>
                 </div>
               </CardContent>
@@ -226,7 +226,7 @@ export default function RaidPage() {
               <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
                 Restez connectés pour vivre cette aventure avec nous. Nous partagerons 
                 régulièrement nos préparatifs, nos entraînements et bien sûr, 
-                l'aventure en direct depuis l'Amazonie !
+                l&apos;aventure en direct depuis l&apos;Amazonie !
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button variant="outline" size="lg">

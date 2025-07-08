@@ -16,7 +16,7 @@ export default function HistoirePage() {
               Une naissance du cœur
             </h1>
             <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-              Découvrez l'histoire de notre association, née de l'amitié et de la douleur, 
+              Découvrez l&apos;histoire de notre association, née de l&apos;amitié et de la douleur, 
               transformée en force et en espoir pour honorer la mémoire de Magali.
             </p>
           </div>
@@ -40,11 +40,11 @@ export default function HistoirePage() {
                   Ce jour-là, nous avons perdu une amie précieuse, une mère exceptionnelle, 
                   une femme rayonnante. Magali nous a quittés, emportée par un lymphome qui 
                   nous a tous pris de court. Dans cette épreuve, nous avons découvert une 
-                  force insoupçonnée : celle de l'amitié, de la solidarité et de l'amour 
+                  force insoupçonnée : celle de l&apos;amitié, de la solidarité et de l&apos;amour 
                   qui transcende même la mort.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  Le 5 juillet n'est pas seulement une date de deuil. C'est le jour où nous 
+                  Le 5 juillet n&apos;est pas seulement une date de deuil. C&apos;est le jour où nous 
                   avons décidé de transformer notre peine en action, notre chagrin en espoir, 
                   notre amour pour Magali en mission pour toutes les personnes touchées par 
                   les cancers du sang.
@@ -61,14 +61,14 @@ export default function HistoirePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  Magali était bien plus qu'une amie. Elle était cette personne lumineuse 
+                  Magali était bien plus qu&apos;une amie. Elle était cette personne lumineuse 
                   qui illuminait chaque pièce où elle entrait. Mère dévouée, elle veillait 
                   sur ses enfants avec une tendresse infinie. Amie fidèle, elle était 
                   toujours présente dans les moments importants.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Son sourire, sa générosité, sa force face à l'adversité nous inspirent 
-                  encore aujourd'hui. Elle nous a appris que même dans la tempête, on peut 
+                  Son sourire, sa générosité, sa force face à l&apos;adversité nous inspirent 
+                  encore aujourd&apos;hui. Elle nous a appris que même dans la tempête, on peut 
                   garder espoir et continuer à donner aux autres.
                 </p>
               </CardContent>
@@ -77,17 +77,17 @@ export default function HistoirePage() {
             <Card>
               <CardHeader>
                 <Heart className="h-8 w-8 text-primary mb-4" />
-                <CardTitle>La force de l'amitié</CardTitle>
+                <CardTitle>La force de l&apos;amitié</CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  Nous sommes trois amies que la vie a réunies et qu'une épreuve terrible 
+                  Nous sommes trois amies que la vie a réunies et qu&apos;une épreuve terrible 
                   a soudées à jamais. Dans la douleur de perdre Magali, nous avons trouvé 
                   un sens à donner à cette tragédie.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   Ensemble, nous avons décidé de porter sa mémoire à travers des actions 
-                  concrètes. Le sport, qu'elle aimait tant, est devenu notre véhicule pour 
+                  concrètes. Le sport, qu&apos;elle aimait tant, est devenu notre véhicule pour 
                   sensibiliser et collecter des fonds pour la recherche.
                 </p>
               </CardContent>
@@ -110,7 +110,7 @@ export default function HistoirePage() {
                   </div>
                   <h3 className="font-semibold">Solidarité</h3>
                   <p className="text-sm text-muted-foreground">
-                    Nous croyons en la force du collectif et de l'entraide
+                    Nous croyons en la force du collectif et de l&apos;entraide
                   </p>
                 </div>
                 
@@ -130,7 +130,7 @@ export default function HistoirePage() {
                   </div>
                   <h3 className="font-semibold">Courage</h3>
                   <p className="text-sm text-muted-foreground">
-                    Le dépassement de soi au service d'une cause noble
+                    Le dépassement de soi au service d&apos;une cause noble
                   </p>
                 </div>
                 
@@ -160,7 +160,7 @@ export default function HistoirePage() {
                   </div>
                   <h3 className="font-semibold">Inclusion</h3>
                   <p className="text-sm text-muted-foreground">
-                    L'ouverture et l'accueil de toutes les bonnes volontés
+                    L&apos;ouverture et l&apos;accueil de toutes les bonnes volontés
                   </p>
                 </div>
               </div>
@@ -169,9 +169,9 @@ export default function HistoirePage() {
 
           <Card className="bg-gradient-to-r from-primary/5 to-accent/5 border-primary/20">
             <CardContent className="p-8">
-              <h2 className="text-2xl font-bold text-center mb-6">L'équipe fondatrice</h2>
+              <h2 className="text-2xl font-bold text-center mb-6">L&apos;équipe fondatrice</h2>
               <p className="text-center text-muted-foreground mb-8 max-w-3xl mx-auto">
-                Nous sommes trois femmes unies par l'amitié et animées par la même volonté 
+                Nous sommes trois femmes unies par l&apos;amitié et animées par la même volonté 
                 de faire de notre douleur une force au service des autres.
               </p>
               

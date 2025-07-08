@@ -8,14 +8,13 @@ import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 
 export default function DonPage() {
   const [amount, setAmount] = useState<string>("50");
   const [frequency, setFrequency] = useState<"once" | "monthly">("once");
   const [loading, setLoading] = useState(false);
 
-  const presetAmounts = ["20", "50", "100", "200"];
+  const presetAmounts = ["2", "5", "10", "20"];
 
   const handleDonation = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -76,7 +75,7 @@ export default function DonPage() {
                 <div>
                   <h3 className="font-semibold">Financement du Raid</h3>
                   <p className="text-sm text-muted-foreground">
-                    Participation, équipement, transport vers l'Amazonie
+                    Participation, équipement, transport vers l&apos;Amazonie
                   </p>
                 </div>
               </div>
@@ -94,7 +93,7 @@ export default function DonPage() {
                 <div>
                   <h3 className="font-semibold">Sensibilisation</h3>
                   <p className="text-sm text-muted-foreground">
-                    Actions de prévention et d'information auprès du public
+                    Actions de prévention et d&apos;information auprès du public
                   </p>
                 </div>
               </div>

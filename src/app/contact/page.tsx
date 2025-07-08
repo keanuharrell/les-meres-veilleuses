@@ -70,7 +70,7 @@ export default function ContactPage() {
             </h1>
             <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
               Vous souhaitez nous rejoindre, nous soutenir ou simplement en savoir plus 
-              sur notre mission ? N'hésitez pas à nous contacter !
+              sur notre mission ? N&apos;hésitez pas à nous contacter !
             </p>
           </div>
         </div>
@@ -111,7 +111,7 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold">Adresse</h4>
                       <p className="text-sm text-muted-foreground">
-                        123 Rue de l'Espoir<br />
+                        123 Rue de l&apos;Espoir<br />
                         75001 Paris, France
                       </p>
                     </div>
@@ -141,7 +141,7 @@ export default function ContactPage() {
                     <div>
                       <h4 className="font-semibold">Bénévolat</h4>
                       <p className="text-sm text-muted-foreground">
-                        Aidez-nous dans l'organisation de nos événements
+                        Aidez-nous dans l&apos;organisation de nos événements
                       </p>
                     </div>
                   </div>
@@ -216,7 +216,7 @@ export default function ContactPage() {
                         <SelectItem value="benevolat">Bénévolat</SelectItem>
                         <SelectItem value="partenariat">Partenariat</SelectItem>
                         <SelectItem value="presse">Demande presse</SelectItem>
-                        <SelectItem value="information">Demande d'information</SelectItem>
+                        <SelectItem value="information">Demande d&apos;information</SelectItem>
                         <SelectItem value="autre">Autre</SelectItem>
                       </SelectContent>
                     </Select>

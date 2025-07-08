@@ -63,7 +63,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Sensibiliser aux cancers du sang et à l'importance du dépistage précoce
+                  Sensibiliser aux cancers du sang et à l&apos;importance du dépistage précoce
                 </p>
               </CardContent>
             </Card>
@@ -88,7 +88,7 @@ export default function Home() {
             <CardHeader className="bg-gradient-to-r from-primary to-accent text-white">
               <CardTitle className="text-2xl">Raid Amazones 2025</CardTitle>
               <CardDescription className="text-white/90">
-                Notre défi sportif au cœur de l'Amazonie
+                Notre défi sportif au cœur de l&apos;Amazonie
               </CardDescription>
             </CardHeader>
             <CardContent className="p-8">
@@ -97,7 +97,7 @@ export default function Home() {
                   <h3 className="text-xl font-semibold mb-4">Un défi extraordinaire</h3>
                   <p className="text-muted-foreground mb-6">
                     Nous participons au Raid Amazones, une aventure sportive unique qui nous mènera 
-                    au cœur de l'Amazonie. Cette épreuve de 6 jours combinera course à pied, VTT, 
+                    au cœur de l&apos;Amazonie. Cette épreuve de 6 jours combinera course à pied, VTT, 
                     canoë et orientation dans un environnement exceptionnel.
                   </p>
                   <Button variant="outline" asChild>
@@ -135,9 +135,9 @@ export default function Home() {
             </CardHeader>
             <CardContent className="text-center">
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-                "Magali était une mère veilleuse, toujours présente pour ses enfants, sa famille et ses amis. 
-                Son sourire illuminait chaque journée et sa force inspirait tous ceux qui l'entouraient. 
-                Aujourd'hui, nous portons sa lumière à travers nos actions."
+                &quot;Magali était une mère veilleuse, toujours présente pour ses enfants, sa famille et ses amis. 
+                Son sourire illuminait chaque journée et sa force inspirait tous ceux qui l&apos;entouraient. 
+                Aujourd&apos;hui, nous portons sa lumière à travers nos actions.&quot;
               </p>
               <p className="text-sm text-muted-foreground mt-4 italic">
                 Le 5 juillet - Une date qui marque le début de notre engagement
