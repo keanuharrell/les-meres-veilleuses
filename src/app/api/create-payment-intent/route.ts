@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import Stripe from 'stripe';
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
+const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || 'sk_test_dummy_key', {
   apiVersion: '2025-06-30.basil',
 });
 
@@ -53,7 +53,6 @@ export async function POST(request: NextRequest) {
         },
         product_data: {
           name: 'Don mensuel - Les Mères Veilleuses',
-          description: 'Don mensuel pour soutenir notre mission',
         },
       });
 
@@ -72,8 +71,10 @@ export async function POST(request: NextRequest) {
         expand: ['latest_invoice.payment_intent'],
       });
 
-      const invoice = subscription.latest_invoice as Stripe.Invoice;
-      const paymentIntent = invoice.payment_intent as Stripe.PaymentIntent;
+      const invoice = subscription.latest_invoice as Stripe.Invoice & {
+        payment_intent: Stripe.PaymentIntent;
+      };
+      const paymentIntent = invoice.payment_intent;
 
       return NextResponse.json({
         clientSecret: paymentIntent.client_secret,
