@@ -17,8 +17,8 @@ export default function HistoirePage() {
             </h1>
             <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
               Cette association est née d&apos;un manque, d&apos;une douleur, d&apos;un vide laissé par Magali, 
-              notre amie, emportée par un lymphome. Découvrez comment nous avons transformé 
-              ce chagrin en lumière et en espoir.
+              notre amie, emportée par un lymphome. 
+              Découvrez comment nous avons transformé ce chagrin en lumière et en espoir.
             </p>
           </div>
         </div>
@@ -38,7 +38,7 @@ export default function HistoirePage() {
               <div className="max-w-4xl mx-auto">
                 <Quote className="h-8 w-8 text-accent mx-auto mb-6" />
                 <p className="text-lg leading-relaxed text-muted-foreground mb-8">
-                  Cette association est aussi née d&apos;un manque, d&apos;une douleur, d&apos;un vide laissé par Magali, 
+                  Cette association est elle aussi née d&apos;un manque, d&apos;une douleur, d&apos;un vide laissé par Magali, 
                   notre amie, emportée par un lymphome. Son départ brutal, trop tôt, trop injuste, 
                   a bouleversé nos vies. Mais plutôt que de laisser ce chagrin s&apos;éteindre dans le silence, 
                   nous avons voulu y répondre par un geste vivant, concret, tendre et fort à la fois.
@@ -55,7 +55,7 @@ export default function HistoirePage() {
                   est une manière de dire : tu n&apos;es plus là, mais tu continues d&apos;agir à travers nous.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  De faire en sorte que la perte devienne un élan, un engagement, une chaîne d&apos;entraide 
+                  Faire en sorte que la perte devienne un élan, un engagement, une chaîne d&apos;entraide 
                   qui ne s&apos;éteint pas. Magali est notre étoile, mais elle est aussi notre point de départ.
                 </p>
               </div>
@@ -91,14 +91,14 @@ export default function HistoirePage() {
                   l&apos;élan d&apos;aider, la beauté du lien, la puissance de la sororité.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground mb-8">
-                  Ce 5 juillet n&apos;est plus seulement un anniversaire. C&apos;est désormais une promesse. 
+                  Ce 5 juillet n&apos;est plus seulement un anniversaire. C&apos;est une promesse. 
                   Celle de continuer, à notre manière, à veiller. À transmettre. À aimer. 
-                  Une date doublement symbolique : celle de la mémoire et celle du commencement. 
+                  Une date doublement symbolique : celle de la mémoire, celle du commencement. 
                   Un trait d&apos;union entre l&apos;héritage que nous portons et l&apos;avenir que nous voulons construire.
                 </p>
                 <p className="text-lg leading-relaxed text-muted-foreground">
-                  Nous créons « Les Mères Veilleuses » comme un phare, une veilleuse allumée dans 
-                  la nuit, un geste tendre et fort à la fois.
+                  Nous créons Les Mères Veilleuses comme un phare, une veilleuse allumée dans la nuit, 
+                  un geste tendre et fort à la fois.
                 </p>
                 <div className="mt-8 p-6 bg-primary/5 rounded-lg border border-primary/20">
                   <p className="text-base italic text-muted-foreground">
