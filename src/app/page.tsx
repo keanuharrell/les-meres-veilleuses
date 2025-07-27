@@ -1,7 +1,6 @@
-import { Heart, Users, Target, Star, Activity, BookOpen, HeartHandshake, Shield, Lightbulb, MapPin } from "lucide-react";
+import { Heart, Star, Activity, BookOpen, HeartHandshake, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
 
 export default function Home() {
@@ -17,7 +16,7 @@ export default function Home() {
               Ensemble pour la vie
             </p>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-              Nous sommes trois amies rassemblées par une histoire forte, un engagement sincère et une lumière qui ne s'éteint jamais. À travers le sport et la solidarité, nous avons choisi de transformer l'épreuve en énergie, la perte en projet de vie. Aujourd'hui, nous faisons vivre cette lumière à travers des actions concrètes, au service de celles et ceux qui nous inspirent — ici et ailleurs, sur Terre ou parmi les étoiles.
+              Nous sommes trois amies rassemblées par une histoire forte, un engagement sincère et une lumière qui ne s&apos;éteint jamais. À travers le sport et la solidarité, nous avons choisi de transformer l&apos;épreuve en énergie, la perte en projet de vie. Aujourd&apos;hui, nous faisons vivre cette lumière à travers des actions concrètes, au service de celles et ceux qui nous inspirent — ici et ailleurs, sur Terre ou parmi les étoiles.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8">
               <Button size="lg" className="bg-primary hover:bg-primary/90" asChild>
@@ -46,7 +45,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Promouvoir le sport féminin comme vecteur de lien, de solidarité, de dépassement de soi et d'émancipation.
+                  Promouvoir le sport féminin comme vecteur de lien, de solidarité, de dépassement de soi et d&apos;émancipation.
                 </p>
               </CardContent>
             </Card>
@@ -90,7 +89,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Encourager chaque femme à relever des défis personnels ou collectifs porteurs de sens, dans un esprit d'entraide et de partage.
+                  Encourager chaque femme à relever des défis personnels ou collectifs porteurs de sens, dans un esprit d&apos;entraide et de partage.
                 </p>
               </CardContent>
             </Card>
@@ -101,7 +100,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  Faire vivre la mémoire de celles et ceux qui nous ont quittés en transformant l'émotion en action.
+                  Faire vivre la mémoire de celles et ceux qui nous ont quittés en transformant l&apos;émotion en action.
                 </p>
               </CardContent>
             </Card>
@@ -123,7 +122,7 @@ export default function Home() {
                 <div>
                   <h3 className="text-xl font-semibold mb-4">Un défi extraordinaire</h3>
                   <p className="text-muted-foreground mb-6">
-                    Nous participerons au Raid Amazones, une aventure sportive 100 % féminine qui nous mènera au cœur de l'Amazonie. Durant 6 jours, nous combinerons course à pied, VTT, canoë et orientation dans un environnement naturel exceptionnel. Un défi physique… mais surtout une aventure humaine.
+                    Nous participerons au Raid Amazones, une aventure sportive 100 % féminine qui nous mènera au cœur de l&apos;Amazonie. Durant 6 jours, nous combinerons course à pied, VTT, canoë et orientation dans un environnement naturel exceptionnel. Un défi physique… mais surtout une aventure humaine.
                   </p>
                   <Button variant="outline" asChild>
                     <a href="/raid">
@@ -160,10 +159,10 @@ export default function Home() {
             </CardHeader>
             <CardContent className="text-center">
               <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-                Certaines présences continuent d'éclairer nos pas, même dans l'absence. C'est en pensant à elle, à toutes celles et ceux que la maladie a emportés, que nous avons décidé d'agir. Chaque pas, chaque don, chaque sourire partagé est une manière de transmettre cette lumière.
+                Certaines présences continuent d&apos;éclairer nos pas, même dans l&apos;absence. C&apos;est en pensant à elle, à toutes celles et ceux que la maladie a emportés, que nous avons décidé d&apos;agir. Chaque pas, chaque don, chaque sourire partagé est une manière de transmettre cette lumière.
               </p>
               <p className="text-sm text-muted-foreground mt-4 italic">
-                💫 Le 5 juillet marque pour nous le début d'un engagement… qui ne fait que commencer.
+                💫 Le 5 juillet marque pour nous le début d&apos;un engagement… qui ne fait que commencer.
               </p>
             </CardContent>
           </Card>

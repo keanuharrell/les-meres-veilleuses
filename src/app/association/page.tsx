@@ -1,6 +1,5 @@
-import { Target, Users, Heart, Award, TrendingUp, ArrowRight, MessageCircle, DollarSign, Settings, Star } from "lucide-react";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { Target, Users, Heart, Award, ArrowRight, MessageCircle, DollarSign, Settings } from "lucide-react";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 export default function AssociationPage() {

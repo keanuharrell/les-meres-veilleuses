@@ -1,4 +1,4 @@
-import { MapPin, Calendar, Users, Target, Trophy, Camera, Heart, Compass, Zap, Trees, Mountain } from "lucide-react";
+import { MapPin, Calendar, Users, Target, Trophy, Camera, Heart, Zap, Trees, Mountain } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
